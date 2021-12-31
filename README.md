@@ -1,2 +1,1 @@
-# OMCOmikuji
-omikuzi
+# [OMCOmikuji](https://kuma-tachiren.github.io/OMCOmikuji)
